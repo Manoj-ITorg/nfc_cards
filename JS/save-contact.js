@@ -1,5 +1,4 @@
-
-function downloadVCard() {
+document.querySelector('.save-contact-button').addEventListener('click', function () {
   const vCardData = `
 BEGIN:VCARD
 VERSION:3.0
@@ -20,15 +19,12 @@ END:VCARD
 
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'Afaf-Mohammad-Marouf.vcf';
+  a.download = 'Afaf_Mohammad_Marouf.vcf';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
   URL.revokeObjectURL(url);
-}
 
-document.querySelector('.save-contact-button').addEventListener('click', function (e) {
-  e.preventDefault();
-  downloadVCard();
+  // Show the message
+  document.getElementById('contact-message').style.display = 'block';
 });
-
