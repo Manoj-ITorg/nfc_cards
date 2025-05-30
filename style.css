@@ -347,7 +347,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
 }
+
 
 .modal-share-button:hover {
   background: #d4af37;
@@ -373,6 +375,14 @@ body {
 
 .linkedin-share { background: #0077B5; }
 .linkedin-share:hover { background: #005E8A; }
+
+
+.messenger-share { background: #0084ff; /* Messenger blue */
+  }
+  
+.messenger-share:hover {background: white; color: #0084ff;
+  }
+  
 
 
 .share-modal {
