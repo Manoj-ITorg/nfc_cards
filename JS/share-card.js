@@ -29,6 +29,9 @@ function createShareModal() {
             <a class="modal-share-button linkedin-share" href="https://www.linkedin.com/sharing/share-offsite/?url=https://manoj-itorg.github.io/nfc_cards/" target="_blank" title="Share on LinkedIn">
               <i class="fab fa-linkedin-in"></i>
             </a>
+            <a class="modal-share-button messenger-share" href="fb-messenger://share/?link=https://manoj-itorg.github.io/nfc_cards/" target="_blank" title="Share on Messenger">
+              <i class="fab fa-facebook-messenger"></i>
+            </a>
           </div>
         </div>
       </div>
