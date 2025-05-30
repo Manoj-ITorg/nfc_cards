@@ -27,8 +27,7 @@ END:VCARD
   URL.revokeObjectURL(url);
 }
 
-// Attach to button
-document.querySelector('.action-button[onclick*="download-vcard"]').addEventListener('click', function (e) {
+document.querySelector('.save-contact-button').addEventListener('click', function (e) {
   e.preventDefault();
   downloadVCard();
 });
