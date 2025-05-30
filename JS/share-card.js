@@ -11,22 +11,22 @@ function createShareModal() {
           <span class="close-modal" onclick="document.getElementById('shareModal').remove()">×</span>
           <h3>Share This Card</h3>
           <div class="share-buttons">
-            <a class="modal-share-button whatsapp-share" href="https://wa.me/?text=https://yourdomain.com/card" target="_blank" title="Share on WhatsApp">
+            <a class="modal-share-button whatsapp-share" href="https://wa.me/?text=https://manoj-itorg.github.io/nfc_cards/" target="_blank" title="Share on WhatsApp">
               <i class="fab fa-whatsapp"></i>
             </a>
-            <a class="modal-share-button facebook-share" href="https://www.facebook.com/sharer/sharer.php?u=https://yourdomain.com/card" target="_blank" title="Share on Facebook">
+            <a class="modal-share-button facebook-share" href="https://www.facebook.com/sharer/sharer.php?u=https://manoj-itorg.github.io/nfc_cards/" target="_blank" title="Share on Facebook">
               <i class="fab fa-facebook-f"></i>
             </a>
-            <a class="modal-share-button twitter-share" href="https://twitter.com/intent/tweet?url=https://yourdomain.com/card" target="_blank" title="Share on Twitter">
+            <a class="modal-share-button twitter-share" href="https://twitter.com/intent/tweet?url=https://manoj-itorg.github.io/nfc_cards/" target="_blank" title="Share on Twitter">
               <i class="fab fa-twitter"></i>
             </a>
-            <a class="modal-share-button email-share" href="mailto:?subject=Check%20out%20this%20business%20card&body=https://yourdomain.com/card" title="Share via Email">
+            <a class="modal-share-button email-share" href="mailto:?subject=Check%20out%20this%20business%20card&body=https://manoj-itorg.github.io/nfc_cards/" title="Share via Email">
               <i class="fas fa-envelope"></i>
             </a>
-            <a class="modal-share-button telegram-share" href="https://t.me/share/url?url=https://yourdomain.com/card" target="_blank" title="Share on Telegram">
+            <a class="modal-share-button telegram-share" href="https://t.me/share/url?url=https://manoj-itorg.github.io/nfc_cards/" target="_blank" title="Share on Telegram">
               <i class="fab fa-telegram-plane"></i>
             </a>
-            <a class="modal-share-button linkedin-share" href="https://www.linkedin.com/sharing/share-offsite/?url=https://yourdomain.com/card" target="_blank" title="Share on LinkedIn">
+            <a class="modal-share-button linkedin-share" href="https://www.linkedin.com/sharing/share-offsite/?url=https://manoj-itorg.github.io/nfc_cards/" target="_blank" title="Share on LinkedIn">
               <i class="fab fa-linkedin-in"></i>
             </a>
           </div>
