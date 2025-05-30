@@ -15,7 +15,7 @@ function createShareModal() {
               <i class="fab fa-whatsapp"></i>
             </a>
             <a class="modal-share-button facebook-share" href="https://www.facebook.com/sharer/sharer.php?u=https://manoj-itorg.github.io/nfc_cards/" target="_blank" title="Share on Facebook">
-              <i class="fab fa-facebook-f"></i>
+              <i class="fab fa-facebook"></i>
             </a>
             <a class="modal-share-button twitter-share" href="https://twitter.com/intent/tweet?url=https://manoj-itorg.github.io/nfc_cards/" target="_blank" title="Share on Twitter">
               <i class="fab fa-twitter"></i>
@@ -24,7 +24,7 @@ function createShareModal() {
               <i class="fas fa-envelope"></i>
             </a>
             <a class="modal-share-button telegram-share" href="https://t.me/share/url?url=https://manoj-itorg.github.io/nfc_cards/" target="_blank" title="Share on Telegram">
-              <i class="fab fa-telegram-plane"></i>
+              <i class="fab fa-telegram"></i>
             </a>
             <a class="modal-share-button linkedin-share" href="https://www.linkedin.com/sharing/share-offsite/?url=https://manoj-itorg.github.io/nfc_cards/" target="_blank" title="Share on LinkedIn">
               <i class="fab fa-linkedin-in"></i>
@@ -33,6 +33,7 @@ function createShareModal() {
               <i class="fab fa-facebook-messenger"></i>
             </a>
           </div>
+
         </div>
       </div>
     `;
